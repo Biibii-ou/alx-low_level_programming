@@ -18,15 +18,15 @@ int main(void)
 
 	if (n > 0)
 	{
-		printf("n = %d. hence n is positive\n", n);
+		printf("n = %d is positive\n", n);
 	}
 	else if (n == 0)
 	{
-		printf("n = %d. hence n is zero\n", n);
+		printf("n = %d is zero\n", n);
 	}
 	else
 	{
-		printf("is negative\n");
+		printf("n = %d is negative\n");
 	}
 
 	/* your code goes there */
