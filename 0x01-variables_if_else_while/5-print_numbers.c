@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - Start the program
+ * main - Entry point
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -12,6 +13,6 @@ int main(void)
 	{
 		printf("%d", i);
 	}
-	print("\n");
+	printf("\n");
 	return (0);
 }
