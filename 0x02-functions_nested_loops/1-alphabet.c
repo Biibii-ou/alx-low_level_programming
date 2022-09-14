@@ -2,9 +2,10 @@
 
 /**
  * main - check the code
- * Description: calls function _putchar to display alphabet
+ * 
  * Return: Always 0.
  */
+
 void print_alphabet(void)
 {
 	char alphab;
